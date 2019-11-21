@@ -1,0 +1,60 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+.first {
+	font-weight: bold;
+}
+.page-header {
+	display: none;
+}
+h2.block-title{ 
+	font-weight: bold;
+	border-bottom: 1px solid grey;
+}
+.slideshow {
+	margin: 0;
+	padding: 0;
+}
+.views-field-title {
+	padding-left: 18px;
+	padding-right: 18px;
+}
+.views-col{
+	border: 1px solid grey;
+	margin: 15px;
+	width: 20.15em !important;
+}
+.views-field-field-image .field-content {
+	padding: 0;
+}
+#block-contactus-2 {
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.field-content a {
+	font-size: 1.5em;
+}
+.field-content p {
+	padding-left: 17px;
+	padding-right: 17px;
+	border-bottom: 1px solid grey;
+}
+.region.region-content {
+	margin-left: 25px;
+}
+/* sidebar */
+.region-sidebar-second {
+}
+.views-field-dropbutton {
+	padding: 19px;
+}
+.footer {
+	background-color: grey;
+}
+.views-element-container h2 {
+	margin-left: 24px;
+}
+/*div.content {
+	display: none;
+}*/
